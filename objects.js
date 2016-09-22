@@ -19,8 +19,6 @@ var nd = {
   }
 };
 
-console.log(nd.nickname);
-
 function aboutND (obj) {
   console.log('The ' + obj.schoolName + ' ' + obj.mascot + ', located in '
               + obj.location.city + ', ' + obj.location.state
