@@ -7,4 +7,4 @@ The Notre Dame Fighting Irish, located in South Bend, Indiana, have been a stapl
 
 The Irish have compiled a record of 816-300-33 as an Independent member of the NCAA. The school colors are blue and gold. The school's most famous coach is Knute Rockne.
 
-Many people regard Frank Leahy to be the greatest coach. Either way,there is no doubt that the Fighting Irish are the most historic football team in the nation.
+Many people regard Frank Leahy to be the greatest coach. Either way, there is no doubt that the Fighting Irish are the most historic football team in the nation.

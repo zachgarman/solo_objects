@@ -34,7 +34,7 @@ function aboutND (obj) {
               + 'school\'s most famous coach is ' + obj.coach + '.\n');
   nd.popCoach = 'Frank Leahy';
   console.log('Many people regard ' + obj.coach + ' to '
-              + 'be the greatest coach. Either way,there is no doubt '
+              + 'be the greatest coach. Either way, there is no doubt '
               + 'that the ' + obj.mascot + ' are the most historic '
               + obj.sport + ' team in the nation.');
 
